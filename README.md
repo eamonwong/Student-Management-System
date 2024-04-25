@@ -37,6 +37,6 @@ Contributions to the project are encouraged! Feel free to fork the repository an
 Acknowledgments
 This project is inspired by the need for an efficient and user-friendly solution for managing student information. Special thanks to the Python Tkinter and SQLite communities for providing robust tools for GUI development and database management.
 
-Enjoy managing student information seamlessly with the Student Management System! If you have any feedback or suggestions, please feel free to open an issue or reach out. Happy organising!
+Enjoy managing student information seamlessly with the Student Management System! Happy organising!
 
 https://github.com/eamonwong/Student-Management-System/assets/75913022/99cb14fb-3844-41b4-bf24-37d637815d7b
