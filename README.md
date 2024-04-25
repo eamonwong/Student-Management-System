@@ -1,4 +1,4 @@
-# Student-Management-System
+# Student Management System
 Welcome to the Student Management System! This project is a Python-based application with a Tkinter-based graphical interface designed to facilitate seamless interaction for managing student details. Offering a robust and user-friendly system, it enables users to effortlessly input, organise, and retrieve student information, including names, colleges, phone numbers, and addresses. The underlying SQLite database ensures efficient data storage and retrieval, making it a reliable solution for student information management.
 
 Features and Functionality
